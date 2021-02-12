@@ -1,0 +1,178 @@
+,id,day,airline,destination,dest_region,dest_size,boarding_area,dept_time,wait_min,cleanliness,safety,satisfaction
+0,1351,Tuesday,UNITED INTL,KANSAI,Asia,Hub,Gates 91-102,2018-12-31,115.0,Clean,Neutral,Very satisfied
+1,373,Friday,ALASKA,SAN JOSE DEL CABO,Canada/Mexico,Small,Gates 50-59,2018-12-31,135.0,Clean,Very safe,Very satisfied
+2,2820,Thursday,DELTA,LOS ANGELES,West US,Hub,Gates 40-48,2018-12-31,70.0000000000001,Average,Somewhat safe,Neutral
+3,1157,Tuesday,SOUTHWEST,LOS ANGELES,West US,Hub,Gates 20-39,2018-12-31,190.0,Clean,Very safe,Somewhat satsified
+4,2992,Wednesday,AMERICAN,MIAMI,East US,Hub,Gates 50-59,2018-12-31,559.0,Unacceptable,Very safe,Somewhat satsified
+5,634,Thursday,ALASKA,NEWARK,East US,Hub,Gates 50-59,2018-12-31,140.0,Somewhat clean,Very safe,Very satisfied
+6,2578,Saturday,JETBLUE,LONG BEACH,West US,Small,Gates 1-12,2018-12-31,62.99999999999989,Clean,Very safe,Somewhat satsified
+8,2592,Saturday,AEROMEXICO,MEXICO CITY,Canada/Mexico,    Hub,Gates 1-12,2018-12-31,215.0,Somewhat clean,Very safe,Neutral
+9,919,Friday,AIR CANADA,TORONTO,Canada/Mexico,Hub,Gates 91-102,2018-12-31,70.0000000000001,Somewhat clean,Somewhat safe,Somewhat satsified
+10,3028,Tuesday,UNITED,PORTLAND,West US,Medium,Gates 70-90,2018-12-31,180.0,Average,Very safe,Neutral
+11,1129,Tuesday,SOUTHWEST,SAN DIEGO,West US,Medium,Gates 20-39,2018-12-31,540.0,Clean,Very safe,Somewhat satsified
+12,2648,Saturday,JETBLUE,BOSTON,East US,Large,Gates 1-12,2018-12-31,192.0,Somewhat clean,Very safe,Somewhat satsified
+13,3104,Tuesday,UNITED,SPOKANE,West US,Small,Gates 70-90,2018-12-31,107.0,Clean,Very safe,Somewhat satsified
+14,2589,Saturday,INTERJET,GUADALAJARA,Canada/Mexico,Medium,Gates 1-12,2018-12-31,155.0,Somewhat clean,Somewhat safe,Somewhat satsified
+15,2345,Tuesday,DELTA,MINNEAPOLIS-ST. PAUL,Midwest US,Hub,Gates 40-48,2018-12-31,155.0,Somewhat clean,Somewhat safe,Somewhat satsified
+16,390,Friday,ALASKA,LOS ANGELES,West US,Hub,Gates 50-59,2018-12-31,175.0,Somewhat clean,Neutral,Somewhat satsified
+17,954,Tuesday,ALASKA,NEW YORK-JFK,EAST US,    Hub,Gates 50-59,2018-12-31,100.0,Clean,Very safe,Very satisfied
+18,2913,Friday,TURKISH AIRLINES,ISTANBUL,Middle East,Hub,Gates 91-102,2018-12-31,225.0,Unacceptable,Very safe,Somewhat satsified
+19,803,Sunday,ALASKA,BALTIMORE,East US,Medium,Gates 50-59,2018-12-31,155.0,Clean,Very safe,Very satisfied
+20,767,Thursday,AIR CANADA,TORONTO,Canada/Mexico,Hub,Gates 91-102,2018-12-31,115.0,Average,Neutral,Somewhat satsified
+21,1214,Tuesday,SOUTHWEST,LAS VEGAS,West US,Hub,Gates 20-39,2018-12-31,59.99999999999989,Average,Somewhat safe,Somewhat satsified
+22,1373,Tuesday,UNITED INTL,SHANGHAI,Asia,Hub     ,Gates 91-102,2018-12-31,145.0,Clean,Very safe,Somewhat satsified
+23,1263,Thursday,UNITED INTL,TOKYO-NARITA,Asia,Hub,Gates 91-102,2018-12-31,210.0,Average,Neutral,Neutral
+24,2723,Wednesday,AIR FRANCE/KLM,PARIS-DE GAULLE,Europe,Hub,Gates 1-12,2018-12-31,160.0,Somewhat clean,Very safe,Somewhat satsified
+25,3097,Tuesday,UNITED,SPOKANE,West US,    Small,Gates 70-90,2018-12-31,604.0,Clean,Very safe,Very satisfied
+27,214,Wednesday,AMERICAN,LOS ANGELES,West US,Hub,Gates 50-59,2018-12-31,100.0,Average,Somewhat safe,Somewhat satsified
+28,1372,Tuesday,UNITED INTL,PARIS-DE GAULLE,eur,    Hub,Gates 91-102,2018-12-31,205.0,Somewhat clean,Very safe,Somewhat satsified
+29,1956,Tuesday,UNITED,BOSTON,East US,Large,Gates 70-90,2018-12-31,115.0,Somewhat clean,Somewhat safe,Somewhat satsified
+30,1716,Sunday,AIR FRANCE/KLM,PARIS-DE GAULLE,Europe,Hub,Gates 1-12,2018-12-31,510.0,Clean,Neutral,Very satisfied
+31,1487,Wednesday,HAWAIIAN AIR,HONOLULU,West US,Medium     ,Gates 1-12,2018-12-31,135.0,Clean,Very safe,Somewhat satsified
+32,842,Tuesday,AMERICAN,DALLAS-FT. WORTH,Midwest US,    Hub,Gates 50-59,2018-12-31,145.0,Somewhat clean,Very safe,Somewhat satsified
+33,930,Friday,AIR CANADA,TORONTO,Canada/Mexico,Hub,Gates 91-102,2018-12-31,270.0,Average,Somewhat safe,Somewhat satsified
+34,3064,Sunday,COPA,PANAMA CITY,Central/South America,Medium,Gates 1-12,2018-12-31,173.0,Average,Neutral,Neutral
+35,743,Sunday,ALASKA,NEW YORK-JFK,East US,Hub,Gates 50-59,2018-12-31,100.0,Somewhat clean,Very safe,Somewhat satsified
+36,2099,Monday,UNITED INTL,MEXICO CITY,Canada/Mexico,Hub,Gates 91-102,2018-12-31,190.0,Clean,Very safe,Neutral
+37,315,Thursday,UNITED,SAN DIEGO,West US,Medium,Gates 70-90,2018-12-31,92.00000000000021,Somewhat clean,Very safe,Somewhat satsified
+38,2216,Thursday,SOUTHWEST,PHOENIX,West US,Hub,Gates 20-39,2018-12-31,135.0,Somewhat clean,Very safe,Very satisfied
+39,3121,Sunday,ALASKA,NEWARK,East US,Hub,Gates 50-59,2018-12-31,125.0,Clean,Very safe,Neutral
+41,2890,Sunday,WOW,REYKJAVIK,Europe,Small,Gates 1-12,2018-12-31,145.0,Average,Neutral,Somewhat satsified
+42,3046,Tuesday,AMERICAN,LOS ANGELES,West US,Hub     ,Gates 50-59,2018-12-31,120.0,Average,Very safe,Very satisfied
+43,3183,Thursday,DELTA,LOS ANGELES,West US,Hub,Gates 40-48,2018-12-31,900.0,Somewhat clean,Somewhat safe,Somewhat satsified
+44,2288,Tuesday,UNITED,SAN ANTONIO,Midwest US,    Medium,Gates 70-90,2018-12-31,150.0,Clean,Very safe,Very satisfied
+45,2740,Wednesday,AIR FRANCE/KLM,PARIS-DE GAULLE,eur,    Hub,Gates 1-12,2018-12-31,330.0,Average,Very unsafe,Somewhat satsified
+46,1570,Wednesday,UNITED INTL,HONG KONG,Asia,Hub,Gates 91-102,2018-12-31,150.0,Clean,Somewhat safe,Somewhat satsified
+47,3228,Thursday,ALASKA,PORTLAND,West US,Medium,Gates 50-59,2018-12-31,110.0,Clean,Very safe,Somewhat satsified
+48,1140,Tuesday,SOUTHWEST,LOS ANGELES,West US,Hub,Gates 20-39,2018-12-31,415.0,Somewhat clean,Very safe,Somewhat satsified
+49,349,Friday,ALASKA,SAN DIEGO,West US,Medium,Gates 50-59,2018-12-31,76.0000000000001,Clean,Very safe,Very satisfied
+50,1572,Wednesday,UNITED INTL,HONG KONG,Asia,Hub,Gates 91-102,2018-12-31,150.0,Somewhat clean,Neutral,Very satisfied
+52,1635,Thursday,KOREAN AIR,SEOUL,Asia,Hub,Gates 1-12,2018-12-31,210.0,Somewhat dirty,Somewhat safe,Neutral
+56,524,Thursday,EMIRATES,DUBAI,Middle East,Hub,Gates 1-12,2018-12-31,165.0,Somewhat clean,Somewhat safe,Neutral
+57,1139,Tuesday,SOUTHWEST,SAN DIEGO,West US,Medium,Gates 20-39,2018-12-31,120.0,Average,Very safe,Somewhat satsified
+58,314,Thursday,UNITED,SAN DIEGO,West US,Medium,Gates 70-90,2018-12-31,122.0,Clean,Very safe,Very satisfied
+59,558,Thursday,EMIRATES,DUBAI,Middle East,Hub,Gates 1-12,2018-12-31,225.0,Somewhat clean,Somewhat safe,Somewhat satsified
+60,262,Friday,AIR CANADA,TORONTO,Canada/Mexico,Hub,Gates 91-102,2018-12-31,175.0,Somewhat clean,Somewhat safe,Somewhat satsified
+61,2537,Tuesday,UNITED,CHICAGO-O'HARE,Midwest US,    Hub,Gates 60-69,2018-12-31,115.0,Clean,Very safe,Very satisfied
+62,1713,Sunday,AIR FRANCE/KLM,PARIS-DE GAULLE,Europe,Hub,Gates 1-12,2018-12-31,135.0,Average,Very safe,Somewhat satsified
+63,407,Saturday,UNITED,PHOENIX,West US,Hub,Gates 70-90,2018-12-31,110.0,Clean,Very safe,Somewhat satsified
+64,3212,Thursday,AMERICAN,LOS ANGELES,West US,Hub,Gates 50-59,2018-12-31,90.0,Somewhat clean,Somewhat safe,Somewhat unsatisfied
+65,450,Sunday,UNITED,INDIANAPOLIS,Midwest US,Medium,Gates 60-69,2018-12-31,67.9999999999999,Clean,Somewhat safe,Very satisfied
+66,1477,Wednesday,AVIANCA,SAN SALVADOR,Central/South America,Small,Gates 1-12,2018-12-31,155.0,Clean,Very safe,Very satisfied
+67,3151,Thursday,DELTA,SALT LAKE CITY,West US,Medium,Gates 40-48,2018-12-31,14.9999999999999,Average,Very safe,Neutral
+68,2257,Wednesday,UNITED,LOS ANGELES,West US,Hub,Gates 60-69,2018-12-31,64.9999999999999,Clean,Very safe,Very satisfied
+69,2400,Wednesday,UNITED INTL,BEIJING,Asia,Hub,Gates 91-102,2018-12-31,205.0,Clean,Very safe,Somewhat satsified
+70,2230,Wednesday,AER LINGUS,DUBLIN,Europe,Large,Gates 91-102,2018-12-31,300.0,Average,Somewhat safe,Neutral
+71,2865,Wednesday,UNITED,WASHINGTON DC-DULLES,East US,Medium,Gates 70-90,2018-12-31,77.0,Average,Very safe,Somewhat satsified
+72,387,Friday,ALASKA,INDIANAPOLIS,Midwest US,    Medium,Gates 50-59,2018-12-31,160.0,Clean,Very safe,Very satisfied
+73,1957,Friday,CATHAY PACIFIC,HONG KONG,Asia,Hub     ,Gates 1-12,2018-12-31,185.0,Somewhat clean,Neutral,Somewhat satsified
+74,2526,Tuesday,JETBLUE,LONG BEACH,West US,Small,Gates 1-12,2018-12-31,60.0,Somewhat clean,Somewhat safe,Somewhat satsified
+75,3041,Tuesday,AMERICAN,DALLAS-FT. WORTH,Midwest US,    Hub,Gates 50-59,2018-12-31,185.0,Somewhat clean,Very safe,Somewhat satsified
+76,813,Sunday,ALASKA,PORTLAND,West US,Medium,Gates 50-59,2018-12-31,140.0,Somewhat clean,Very safe,Somewhat satsified
+77,1523,Wednesday,JETBLUE,NEW YORK-JFK,EAST US,    Hub,Gates 1-12,2018-12-31,81.0,Somewhat clean,Very safe,Somewhat satsified
+78,2796,Sunday,WOW,REYKJAVIK,Europe,Small,Gates 1-12,2018-12-31,160.0,Somewhat clean,Somewhat safe,Somewhat satsified
+79,3255,Tuesday,UNITED,SAN DIEGO,West US,Medium,Gates 70-90,2018-12-31,105.0,Average,Somewhat safe,Neutral
+80,2042,Friday,BRITISH AIRWAYS,LONDON HEATHROW,Europe,Hub,Gates 1-12,2018-12-31,180.0,Somewhat clean,Very safe,Somewhat satsified
+81,3062,Sunday,PHILIPPINE AIRLINES,MANILA,Asia,Medium,Gates 1-12,2018-01-01,215.0,Clean,Somewhat safe,Somewhat satsified
+82,2026,Friday,BRITISH AIRWAYS,LONDON HEATHROW,Europe,Hub,Gates 1-12,2018-12-31,120.0,Somewhat clean,Somewhat safe,Somewhat satsified
+83,1793,Saturday,UNITED,RALEIGH-DURHAM,East US,Medium,Gates 70-90,2018-12-31,150.0,Clean,Somewhat safe,Somewhat satsified
+84,1366,Tuesday,UNITED INTL,KANSAI,Asia,Hub,Gates 91-102,2018-12-31,170.0,Clean,Very safe,Somewhat satsified
+85,1017,Friday,AIR CANADA,VANCOUVER,Canada/Mexico,Medium,Gates 91-102,2018-12-31,110.0,Somewhat clean,Very safe,Somewhat satsified
+86,2501,Friday,ALASKA,SALT LAKE CITY,West US,    Medium,Gates 1-12,2018-12-31,120.0,Somewhat clean,Neutral,Somewhat satsified
+88,3202,Sunday,CATHAY PACIFIC,HONG KONG,Asia,Hub,Gates 1-12,2018-01-01,210.0,Clean,Neutral,Somewhat satsified
+89,1747,Monday,LUFTHANSA,MUNICH,Europe,Hub,Gates 91-102,2018-12-31,205.0,Clean,Very safe,Very satisfied
+90,1954,Saturday,AIR FRANCE/KLM,PARIS-DE GAULLE,Europe,Hub,Gates 1-12,2018-12-31,245.0,Clean,Very safe,Very satisfied
+91,643,Thursday,ALASKA,NEW ORLEANS,Midwest US,Medium,Gates 50-59,2018-12-31,160.0,Somewhat clean,Neutral,Somewhat satsified
+93,2258,Wednesday,WOW,REYKJAVIK,Europe,Small,Gates 91-102,2018-12-31,355.0,Somewhat clean,Somewhat safe,Somewhat satsified
+94,2334,Tuesday,DELTA,MINNEAPOLIS-ST. PAUL,Midwest US,Hub,Gates 40-48,2018-12-31,155.0,Clean,Very safe,Very satisfied
+95,1887,Tuesday,UNITED,BOSTON,East US,Large,Gates 70-90,2018-12-31,84.9999999999999,Somewhat clean,Neutral,Neutral
+97,363,Friday,LUFTHANSA,FRANKFURT,Europe,Hub,Gates 91-102,2018-12-31,180.0,Somewhat clean,Somewhat safe,Somewhat satsified
+99,2443,Tuesday,JETBLUE,BOSTON,East US,Large,Gates 1-12,2018-12-31,177.0,Clean,Very safe,Somewhat satsified
+100,2321,Wednesday,SOUTHWEST,LOS ANGELES,West US,Hub,Gates 20-39,2018-12-31,130.0,Unacceptable,Somewhat safe,Somewhat satsified
+101,1593,Thursday,SOUTHWEST,LOS ANGELES,West US,Hub,Gates 20-39,2018-12-31,50.0,Clean,Very safe,Very satisfied
+103,716,Wednesday,CATHAY PACIFIC,HONG KONG,Asia,Hub,Gates 1-12,2018-12-31,270.0,Clean,Very safe,Very satisfied
+104,2320,Wednesday,QANTAS,SYDNEY,Australia/New Zealand,Hub,Gates 1-12,2018-12-31,150.0,Somewhat clean,Somewhat safe,Somewhat satsified
+106,2038,Friday,BRITISH AIRWAYS,LONDON HEATHROW,eur,    Hub,Gates 1-12,2018-12-31,150.0,Average,Somewhat safe,Neutral
+107,550,Thursday,EMIRATES,DUBAI,Middle East,Hub,Gates 1-12,2018-12-31,245.0,Somewhat clean,Somewhat safe,Somewhat satsified
+108,746,Sunday,ALASKA,NEW YORK-JFK,East US,Hub,Gates 50-59,2018-12-31,120.0,Clean,Very safe,Very satisfied
+109,2739,Friday,UNITED,KAHULUI,West US,Small,Gates 60-69,2018-12-31,32.0,Somewhat clean,Very safe,Somewhat satsified
+110,1984,Friday,AIR FRANCE/KLM,AMSTERDAM,eur,    Hub,Gates 1-12,2018-12-31,115.0,Average,Neutral,Somewhat unsatisfied
+111,2566,Saturday,JETBLUE,LONG BEACH,West US,Small,Gates 1-12,2018-12-31,103.0,Clean,Very safe,Somewhat satsified
+112,2200,Wednesday,AER LINGUS,DUBLIN,Europe,Large,Gates 91-102,2018-12-31,180.0,Somewhat clean,Somewhat safe,Somewhat satsified
+113,340,Wednesday,SOUTHWEST,PHOENIX,West US,Hub,Gates 20-39,2018-12-31,240.0,Somewhat clean,Somewhat safe,Somewhat satsified
+114,1252,Thursday,UNITED INTL,TOKYO-NARITA,Asia,Hub,Gates 91-102,2018-12-31,120.0,Somewhat clean,Somewhat safe,Very satisfied
+115,1946,Saturday,AIR FRANCE/KLM,PARIS-DE GAULLE,Europe,Hub,Gates 1-12,2018-12-31,305.0,Clean,Very safe,Neutral
+116,2627,Tuesday,UNITED,CHICAGO-O'HARE,Midwest US,Hub,Gates 60-69,2018-12-31,74.9999999999999,Clean,Very safe,Very satisfied
+117,1563,Wednesday,DELTA,ATLANTA,East US,Hub,Gates 40-48,2018-12-31,135.0,Somewhat clean,Somewhat safe,Neutral
+118,752,Thursday,AIR CANADA,TORONTO,Canada/Mexico,Hub,Gates 91-102,2018-12-31,235.0,Somewhat clean,Somewhat safe,Neutral
+120,3135,Tuesday,UNITED,SAN DIEGO,West US,Medium,Gates 60-69,2018-12-31,70.0000000000001,Somewhat clean,Very safe,Somewhat satsified
+121,1123,Thursday,DELTA,MINNEAPOLIS-ST. PAUL,Midwest US,Hub,Gates 40-48,2018-12-31,90.0,Somewhat clean,Very safe,Somewhat satsified
+122,2220,Thursday,SOUTHWEST,PHOENIX,West US,Hub,Gates 20-39,2018-12-31,95.0,Somewhat clean,Very safe,Very satisfied
+123,3065,Tuesday,UNITED,SPOKANE,West US,Small,Gates 70-90,2018-12-31,112.0,Average,Neutral,Neutral
+124,3052,Tuesday,AMERICAN,MIAMI,East US,Hub,Gates 50-59,2018-12-31,125.0,Clean,Somewhat safe,Somewhat satsified
+125,2847,Tuesday,UNITED,SEATTLE,West US,Hub,Gates 70-90,2018-12-31,142.0,Average,Very safe,Somewhat satsified
+127,884,Tuesday,ALASKA,SEATTLE,West US,Hub,Gates 50-59,2018-12-31,85.0,Clean,Very safe,Very satisfied
+128,2054,Friday,UNITED,NEWARK,East US,Hub,Gates 70-90,2018-12-31,150.0,Clean,Very safe,Very satisfied
+129,1571,Wednesday,DELTA,DETROIT,Midwest US,Large,Gates 40-48,2018-12-31,155.0,Somewhat clean,Very safe,Neutral
+130,747,Sunday,ALASKA,NEW YORK-JFK,East US,Hub,Gates 50-59,2018-12-31,120.0,Somewhat clean,Very safe,Very satisfied
+132,1799,Sunday,ALASKA,RALEIGH-DURHAM,EAST US,    Medium,Gates 50-59,2018-12-31,265.0,Somewhat clean,Neutral,Somewhat satsified
+134,2281,Wednesday,QANTAS,SYDNEY,Australia/New Zealand,    Hub,Gates 1-12,2018-12-31,225.0,Average,Neutral,Somewhat unsatisfied
+135,2711,Friday,UNITED,SANTA BARBARA,West US,Small,Gates 70-90,2018-12-31,122.0,Somewhat clean,Somewhat safe,Somewhat satsified
+136,917,Friday,AIR CANADA,TORONTO,Canada/Mexico,Hub,Gates 91-102,2018-12-31,90.0,Somewhat clean,Somewhat safe,Neutral
+137,2091,Thursday,AMERICAN,PHILADELPHIA,East US,Large,Gates 50-59,2018-12-31,97.0,Somewhat clean,Somewhat safe,Somewhat satsified
+139,265,Friday,AIR CANADA,TORONTO,Canada/Mexico,    Hub,Gates 91-102,2018-12-31,415.0,Average,Neutral,Neutral
+140,2387,Wednesday,UNITED INTL,BEIJING,Asia,Hub,Gates 91-102,2018-12-31,135.0,Somewhat clean,Neutral,Neutral
+141,3254,Tuesday,UNITED,SAN DIEGO,West US,Medium,Gates 70-90,2018-12-31,150.0,Somewhat clean,Very safe,Somewhat satsified
+142,772,Thursday,UNITED INTL,SAN JOSE DEL CABO,Canada/Mexico,Small,Gates 91-102,2018-12-31,90.0,Somewhat clean,Very safe,Very satisfied
+143,465,Sunday,UNITED,DENVER,West US,Hub,Gates 70-90,2018-12-31,131.0,Average,Somewhat safe,Somewhat satsified
+144,374,Friday,ALASKA,SAN JOSE DEL CABO,Canada/Mexico,Small,Gates 50-59,2018-12-31,105.0,Somewhat clean,Neutral,Somewhat satsified
+145,367,Friday,ALASKA,SAN JOSE DEL CABO,Canada/Mexico,Small,Gates 50-59,2018-12-31,135.0,Somewhat clean,Very safe,Somewhat satsified
+146,2113,Friday,JETBLUE,LONG BEACH,West US,Small,Gates 1-12,2018-12-31,514.0,Average,Somewhat safe,Somewhat satsified
+148,1970,Friday,CATHAY PACIFIC,HONG KONG,Asia,Hub,Gates 1-12,2018-12-31,185.0,Clean,Very safe,Somewhat satsified
+149,1012,Friday,AIR CANADA,VANCOUVER,Canada/Mexico,Medium,Gates 91-102,2018-12-31,185.0,Clean,Very safe,Somewhat satsified
+150,1739,Monday,AIR CANADA,TORONTO,Canada/Mexico,Hub,Gates 91-102,2018-12-31,75.0000000000001,Somewhat clean,Somewhat safe,Very satisfied
+151,2004,Wednesday,UNITED,NEWARK,East US,Hub,Gates 70-90,2018-12-31,170.0,Somewhat clean,Somewhat safe,Very satisfied
+152,2016,Wednesday,UNITED,NEWARK,East US,Hub,Gates 70-90,2018-12-31,98.0000000000001,Clean,Very safe,Somewhat satsified
+153,2262,Saturday,UNITED,BAKERSFIELD,West US,    Small,Gates 70-90,2018-12-31,166.0,Somewhat dirty,Very safe,Somewhat unsatisfied
+154,2482,Friday,ALASKA,SALT LAKE CITY,West US,    Medium,Gates 1-12,2018-12-31,90.0,Somewhat clean,Neutral,Somewhat unsatisfied
+155,2969,Tuesday,UNITED,HONOLULU,West US,Medium,Gates 70-90,2018-12-31,65.0000000000001,Clean,Very safe,Very satisfied
+156,2575,Tuesday,UNITED,CHICAGO-O'HARE,Midwest US,Hub,Gates 60-69,2018-12-31,90.0,Clean,Somewhat safe,Very satisfied
+157,637,Thursday,ALASKA,NEW ORLEANS,Midwest US,Medium,Gates 50-59,2018-12-31,110.0,Clean,Very safe,Very satisfied
+158,2497,Friday,UNITED,CHICAGO-O'HARE,Midwest US,Hub,Gates 60-69,2018-12-31,139.0,Somewhat clean,Somewhat safe,Somewhat satsified
+160,1724,Monday,AIR CANADA,TORONTO,Canada/Mexico,Hub,Gates 91-102,2018-12-31,150.0,Clean,Very safe,Very satisfied
+161,805,Wednesday,AMERICAN,LOS ANGELES,West US,Hub,Gates 50-59,2018-12-31,160.0,Somewhat clean,Very safe,Neutral
+162,3169,Thursday,DELTA,LOS ANGELES,West US,Hub,Gates 40-48,2018-12-31,59.99999999999989,Average,Very safe,Somewhat satsified
+163,1090,Thursday,DELTA,MINNEAPOLIS-ST. PAUL,Midwest US,Hub     ,Gates 40-48,2018-12-31,105.0,Somewhat clean,Very safe,Somewhat satsified
+164,270,Thursday,UNITED,LOS ANGELES,West US,    Hub,Gates 70-90,2018-12-31,130.0,Clean,Very safe,Very satisfied
+165,569,Thursday,ALASKA,SEATTLE,West US,Hub,Gates 50-59,2018-12-31,105.0,Somewhat clean,Somewhat safe,Somewhat satsified
+166,2319,Wednesday,QANTAS,SYDNEY,Australia/New Zealand,    Hub,Gates 1-12,2018-12-31,220.0,Average,Very safe,Somewhat unsatisfied
+167,3223,Thursday,AMERICAN,LOS ANGELES,West US,Hub,Gates 50-59,2018-12-31,60.0,Clean,Very safe,Very satisfied
+168,2922,Thursday,DELTA,SEATTLE,West US,Hub,Gates 40-48,2018-12-31,105.0,Somewhat clean,Somewhat safe,Somewhat satsified
+169,13,Tuesday,SOUTHWEST,LOS ANGELES,West US,Hub,Gates 20-39,2018-12-31,90.0,Average,Somewhat safe,Somewhat satsified
+170,1719,Sunday,AIR FRANCE/KLM,PARIS-DE GAULLE,eur,    Hub,Gates 1-12,2018-12-31,510.0,Average,Somewhat safe,Neutral
+171,3186,Thursday,DELTA,LOS ANGELES,West US,Hub,Gates 40-48,2018-12-31,53.0,Average,Somewhat safe,Somewhat satsified
+172,2157,Wednesday,FRONTIER,DENVER,West US,Hub,Gates 20-39,2018-12-31,153.0,Clean,Very safe,Very satisfied
+173,1103,Tuesday,SOUTHWEST,SAN DIEGO,West US,    Medium,Gates 20-39,2018-12-31,120.0,Clean,Very safe,Very satisfied
+174,2053,Friday,UNITED,NEWARK,East US,Hub,Gates 70-90,2018-12-31,90.0,Average,Somewhat safe,Neutral
+175,2353,Wednesday,UNITED,AUSTIN,Midwest US,Medium,Gates 70-90,2018-12-31,150.0,Clean,Very safe,Somewhat satsified
+176,3048,Sunday,PHILIPPINE AIRLINES,MANILA,Asia,Medium,Gates 1-12,2018-01-01,215.0,Somewhat clean,Very safe,Somewhat satsified
+177,2143,Wednesday,FRONTIER,DENVER,West US,Hub,Gates 20-39,2018-12-31,123.0,Clean,Very safe,Somewhat satsified
+178,1113,Thursday,DELTA,MINNEAPOLIS-ST. PAUL,Midwest US,Hub,Gates 40-48,2018-12-31,120.0,Clean,Very safe,Very satisfied
+180,1303,Tuesday,UNITED INTL,LONDON HEATHROW,Europe,Hub,Gates 91-102,2018-12-31,140.0,Clean,Very safe,Neutral
+181,1261,Thursday,CHINA EASTERN,SHANGHAI,Asia,Hub,Gates 1-12,2018-12-31,195.0,Clean,Very safe,Somewhat satsified
+182,9004,Friday,AIR CANADA,VANCOUVER,Canada/Mexico,Medium,Gates 91-102,2018-12-31,335.0,Clean,Very safe,Very satisfied
+183,1913,Saturday,AIR FRANCE/KLM,PARIS-DE GAULLE,Europe,Hub,Gates 1-12,2018-12-31,215.0,Clean,Very safe,Somewhat satsified
+184,3035,Tuesday,UNITED,PORTLAND,West US,Medium,Gates 70-90,2018-12-31,216.0,Somewhat clean,Somewhat safe,Somewhat satsified
+185,1542,Thursday,DELTA,NEW YORK-JFK,East US,Hub,Gates 40-48,2018-12-31,105.0,Somewhat clean,Very safe,Somewhat satsified
+186,2352,Tuesday,DELTA,MINNEAPOLIS-ST. PAUL,Midwest US,Hub,Gates 40-48,2018-12-31,155.0,Clean,Very safe,Somewhat satsified
+187,801,Sunday,ALASKA,BALTIMORE,East US,Medium,Gates 50-59,2018-12-31,155.0,Clean,Very safe,Very satisfied
+189,529,Thursday,EMIRATES,DUBAI,Middle East,Hub,Gates 1-12,2018-12-31,240.0,Somewhat dirty,Somewhat safe,Neutral
+191,3107,Tuesday,UNITED,SPOKANE,West US,Small,Gates 70-90,2018-12-31,247.0,Clean,Very safe,Very satisfied
+192,1785,Saturday,UNITED,RALEIGH-DURHAM,EAST US,    Medium,Gates 70-90,2018-12-31,130.0,Average,Neutral,Neutral
+193,202,Wednesday,AMERICAN,LOS ANGELES,West US,Hub,Gates 50-59,2018-12-31,85.0,Somewhat clean,Somewhat safe,Somewhat satsified
+194,883,Tuesday,ALASKA,SEATTLE,West US,Hub,Gates 50-59,2018-12-31,145.0,Average,Very safe,Neutral
+195,3142,Thursday,DELTA,SALT LAKE CITY,West US,Medium,Gates 40-48,2018-12-31,45.0,Somewhat clean,Very safe,Somewhat satsified
+196,3157,Tuesday,UNITED,SAN DIEGO,West US,Medium,Gates 60-69,2018-12-31,135.0,Somewhat clean,Very safe,Neutral
+197,1894,Monday,LUFTHANSA,MUNICH,Europe,Hub,Gates 91-102,2018-12-31,235.0,Somewhat clean,Very safe,Somewhat satsified
+198,458,Sunday,UNITED,DALLAS-FT. WORTH,Midwest US,Hub,Gates 60-69,2018-12-31,250.0,Somewhat clean,Somewhat safe,Very satisfied
+199,2020,Friday,BRITISH AIRWAYS,LONDON HEATHROW,eur,    Hub,Gates 1-12,2018-12-31,105.0,Somewhat clean,Neutral,Neutral
