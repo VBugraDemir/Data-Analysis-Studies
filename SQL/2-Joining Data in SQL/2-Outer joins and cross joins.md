@@ -74,7 +74,7 @@ ORDER BY city, language;
 ## FULL JOINs
 The last type of the outer joins. 
 
-###Full join
+### Full join
 ```
 SELECT name AS country, code, region, basic_unit
 FROM countries
