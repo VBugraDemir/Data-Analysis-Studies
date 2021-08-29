@@ -48,6 +48,26 @@ LEFT JOIN teams_spain AS t
 ON m.awayteam_id = t.team_api_id
 WHERE m.hometeam_id = 8634; 
 ```
+
+#### Doing the same thing by joining twice.
+```
+SELECT  date, hometeam_id, a.team_long_name, awayteam_id, b.team_long_name as tln,home_goal,away_goal, 
+CASE WHEN hometeam_id = 8634 THEN 'Barca home'
+ELSE 'Barca away' END AS home,
+CASE WHEN hometeam_id = 8634 AND home_goal > away_goal THEN 'Barca win'
+WHEN hometeam_id = 8634 AND home_goal < away_goal THEN 'Barca lose'
+WHEN awayteam_id = 8634 AND home_goal > away_goal THEN 'Barca lose'
+WHEN awayteam_id = 8634 AND home_goal < away_goal THEN 'Barca win'
+ELSE 'Tie' END AS Outcomes
+FROM matches_spain
+LEFT JOIN teams_spain as a
+ON matches_spain.hometeam_id = a.team_api_id
+LEFT JOIN teams_spain as b
+ON matches_spain.awayteam_id = b.team_api_id
+WHERE hometeam_id = 8634 OR awayteam_id = 8634
+ORDER BY home
+```
+
 ### CASE statements comparing two column values part 2
 
 ```
