@@ -138,6 +138,12 @@ WHERE CASE WHEN hometeam_id = 9857 AND home_goal > away_goal THEN 'Bologna Win'
 ```
 The details on every match where Bologna won.
 
+#### This code give the same result. 
+```
+SELECT season, date, home_goal, away_goal
+FROM matches_italy
+WHERE (hometeam_id = 9857 AND home_goal > away_goal) OR (awayteam_id = 9857 AND away_goal > home_goal)
+```
 
 ## CASE WHEN with aggregate functions
 CASE statements are great for 
