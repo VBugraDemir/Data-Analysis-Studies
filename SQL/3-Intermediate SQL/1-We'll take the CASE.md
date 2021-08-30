@@ -174,6 +174,10 @@ GROUP BY country;
 
 ### Calculating percent with CASE and AVG
 ```
+AVG(CASE WHEN condition_is_met THEN 1
+         WHEN condition_is_not_met THEN 0 END)
+```
+```
 SELECT c.name AS country,
 COUNT(CASE WHEN m.home_goal > m.away_goal THEN m.id END) AS home_wins,
 COUNT(CASE WHEN m.home_goal < m.away_goal THEN m.id END) AS away_wins,
