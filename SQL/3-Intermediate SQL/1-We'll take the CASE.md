@@ -49,7 +49,23 @@ ON m.awayteam_id = t.team_api_id
 WHERE m.hometeam_id = 8634; 
 ```
 
-#### Doing the same thing by joining twice.
+#### Altough it is said joining can't be done for two different columns at the same time, but correlated subquery can handle it,
+actually you can do the same thing with 2 different techniques.
+
+##### Selecting two columns from a table for two columns of a different table.
+
+```
+SELECT *, (SELECT team_long_name
+	   FROM teams_spain AS ts
+           WHERE ts.team_api_id = m.hometeam_id) AS home_long,(SELECT team_long_name
+		   					       FROM teams_spain AS ts
+	   						       WHERE ts.team_api_id = m.awayteam_id) AS away_long
+FROM matches_spain AS m
+WHERE season ='2011/2012'
+```
+
+##### Doing the same thing by joining twice.
+
 ```
 SELECT  date, hometeam_id, a.team_long_name, awayteam_id, b.team_long_name as tln,home_goal,away_goal, 
 CASE WHEN hometeam_id = 8634 THEN 'Barca home'
