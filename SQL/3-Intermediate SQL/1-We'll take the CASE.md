@@ -49,8 +49,7 @@ ON m.awayteam_id = t.team_api_id
 WHERE m.hometeam_id = 8634; 
 ```
 
-#### Altough it is said joining can't be done for two different columns at the same time, but correlated subquery can handle it,
-actually you can do the same thing with 2 different techniques.
+#### Altough it is said joining can't be done for two different columns at the same time, but correlated subquery can handle it, actually you can do the same thing with 2 different techniques.
 
 ##### Selecting two columns from a table for two columns of a different table.
 
