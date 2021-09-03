@@ -53,7 +53,6 @@ Frame is the range defined in OVER clause. A frame always starts with RANGE
 BETWEEN or ROWS BETWEEN.
 
 * ROWS BETWEEN [START] AND [FINISH]
-
 ** n PRECEDING: n rows before the current row
 
 ** CURRENT ROW: the current row
