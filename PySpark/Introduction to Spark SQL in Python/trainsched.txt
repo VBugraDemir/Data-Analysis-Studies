@@ -1,0 +1,15 @@
+train_id,station,time
+324,San Francisco,7:59
+324,22nd Street,8:03
+324,Millbrae,8:16
+324,Hillsdale,8:24
+324,Redwood City,8:31
+324,Palo Alto,8:37
+324,San Jose,9:05
+217,Gilroy,6:06
+217,San Martin,6:15
+217,Morgan Hill,6:21
+217,Blossom Hill,6:36
+217,Capitol,6:42
+217,Tamien,6:50
+217,San Jose,6:59
