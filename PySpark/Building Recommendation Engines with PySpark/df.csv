@@ -1,0 +1,17 @@
+UserId,MovieId,Movie_Title,Genre,Year_Produced,Language,rating
+User1,2112,Finding Nemo,Animated,English,2003,3
+User1,2113,The Terminator,Action,English,1984,0
+User1,2114,Spinal Tap,Satire,English,1984,4
+User1,2115,Life Is Beautiful,Drama,Italian,1998,4
+User2,2112,Finding Nemo,Animated,English,2003,4
+User2,2113,The Terminator,Action,English,1984,0
+User2,2114,Spinal Tap,Satire,English,1984,0
+User2,2115,Life Is Beautiful,Drama,Italian,1998,4
+User3,2112,Finding Nemo,Animated,English,2003,1
+User3,2113,The Terminator,Action,English,1984,2
+User3,2114,Spinal Tap,Satire,English,1984,1
+User3,2115,Life Is Beautiful,Drama,Italian,1998,0
+User4,2112,Finding Nemo,Animated,English,2003,3
+User4,2113,The Terminator,Action,English,1984,1
+User4,2114,Spinal Tap,Satire,English,1984,0
+User4,2115,Life Is Beautiful,Drama,Italian,1998,0
